@@ -1,0 +1,12 @@
+.header {
+  height: 90px;
+  width: 100%;
+  background-color: aqua;
+}
+
+.subHeader {
+  padding: 25px 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
